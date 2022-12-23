@@ -1,0 +1,6 @@
+name: ${project.artifactId}
+version: ${project.version}
+api-version: 1.17
+author: LokosPL
+main: xyz.lokos.droplvl.basic.Main
+description: Plugin; ${project.artifactId} to plugin platny ktory posiada wiele funkcji i dzialan na korzysc serwera. Kupno pluginu dostepne na discordzie; mg-hc.pl | Lokos#8885
